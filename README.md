@@ -1,4 +1,4 @@
-# react-file-dropzone
+# react-files-dropzone
 
 > Made with create-react-library
 
